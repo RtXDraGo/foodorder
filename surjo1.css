@@ -1,0 +1,58 @@
+#home
+{
+    padding: 2px 60px;
+}
+#home h1
+{
+    font-size: 20px;
+}
+.navbar
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top:0px;
+}
+.primary
+{
+    font-size: 1rem;
+}
+a
+{
+    font-size: 10px;
+}
+.bn
+{
+    align-items: center;
+}
+.container
+{
+    flex-direction: column;
+}
+.clients
+{
+    flex-wrap: wrap;
+    
+}
+.clients img
+{
+    width :66px;
+    height: 66px;
+    padding: 6px;
+    height: auto;
+}
+.clientsec::before
+{
+height: 324px;
+width: 100%;
+}
+p
+{
+    font-size: 15px;
+}
+.con form
+{
+    width: 80%;
+}

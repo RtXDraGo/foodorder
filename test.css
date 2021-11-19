@@ -1,0 +1,147 @@
+img
+{
+    width: 60px;
+    height: 60px;
+}
+.navbar
+{
+    border: 2px solid red;
+    display: flex;
+    align-items: center;
+}
+.logo
+{
+    border: 2px solid red;
+    display: inline;
+}
+ul
+{
+    border: 2px solid blue;
+    display: flex;
+}
+.navbar ul li
+{
+    padding: 2px 20px;
+    list-style: none;
+}
+a
+{
+    text-decoration: none;
+    color: brown;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+#home
+{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    padding: 2px 200px;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+p
+{
+    border: 2px solid blue;
+    text-align: center;
+ font-family:'Times New Roman', Times, serif
+}
+.primary
+{
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.service
+{
+    border: 4px solid green;
+
+}
+.container
+{
+    border: 2px solid black;
+    margin: 34px;
+    display: flex;
+    justify-content: center;
+}
+.secondary
+{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.box img
+{
+    margin: auto;
+    display: block;
+}
+.box
+{
+    padding: 2px 2px;
+    margin: 2px 60px;
+    border: 2px solid yellow;
+}
+.box p
+{
+    padding: 2px 2px;
+    font-size: 13px;
+}
+.clientsec
+{
+    border: 2px solid red;
+}
+.clients
+{
+    border: 2px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.clgrp
+{
+border: 2px solid violet ;
+margin: 2px 66px;
+}
+.clgrp img
+{
+    width: 120px;
+    height: 120px;
+}
+.contact
+{
+    border: 2px solid blue;
+}
+.con
+{
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fill input,.fill textarea
+{
+    width: 100%;
+    padding : 0.5rem;
+}
+.con form
+{
+    width: 40%;
+}
+footer
+{
+    border: 2px solid blue;
+    padding: 9px 20px;
+}
+.fut
+{
+    text-align: center;
+}
+.fill1
+{
+    text-align: center;
+}
+.btn
+{
+    border: 2px solid black;
+    background-color: transparent;
+}
